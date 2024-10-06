@@ -15,7 +15,7 @@ const About = () => {
       />
       <h2 className="center creator-name">Pranay Thakre</h2>
       <p>
-        Welcome to ShotShare! <span style={{ 'font-size': '1.5rem' }}>📸</span>
+        Welcome to SpotShare!<span style={{ 'font-size': '1.5rem' }}>📸</span>
         This is your go-to spot for sharing all the cool places you've visited.
         Connect with others, discover new destinations, and let everyone see the
         world through your eyes. Whether you're a weekend traveler or a seasoned
@@ -31,7 +31,13 @@ const About = () => {
         </p>
         <p className="contact-icon">
           <FaLinkedin size="1.5rem" color="#0a66c2" />
-          <a href="https://www.linkedin.com/in/pranaythakre" target="_blank" rel="noopener noreferrer">pranaythakre</a>
+          <a
+            href="https://www.linkedin.com/in/pranaythakre"
+            target="_blank"
+            rel="noopener noreferrer"
+          >
+            pranaythakre
+          </a>
         </p>
       </div>
     </div>
