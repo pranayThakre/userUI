@@ -31,7 +31,7 @@ const About = () => {
         </p>
         <p className="contact-icon">
           <FaLinkedin size="1.5rem" color="#0a66c2" />
-          <a href="https://www.linkedin.com/in/pranaythakre">pranaythakre</a>
+          <a href="https://www.linkedin.com/in/pranaythakre" target="_blank">pranaythakre</a>
         </p>
       </div>
     </div>
